@@ -1,4 +1,4 @@
-# WatchOut
+# WatchOut!
 W tym repozytorium będą co 2 tygodnie pojawiać się zaktualizowane wersje projektu gry WatchOut!
 
 Autorzy:
